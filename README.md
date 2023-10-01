@@ -4,7 +4,7 @@
 
 <div align=center>
 	<div>
-		<h2> 🌱 Introduce 🌱 </h2>
+		<h2> 🌱 Introduce</h2>
 		<p>안녕하세요!
 		<br />
 		항상 최선을 다하는 프론트엔드 개발자 황지현 입니다
@@ -17,6 +17,15 @@
 		<a href="https://github.com/vitaZ-dev/smart-grade" target="_blank">[2차-3차] 대학 성적 관리 서비스</a>
 		<br />
 		<a href="https://github.com/vitaZ-dev/clone-sulwhasoo" target="_blank">[mini] 설화수 홈페이지 스터디 클론코딩(반응형)</a>
+		</p>
+	</div>
+	<div>
+		<h2> 📝 Personal Projects 📝 </h2>
+		<p>
+		<a href="https://github.com/vitaZ-dev/clone-interpark" target="_blank">[반응형] 인터파크 스터디 클론코딩</a> <br />
+		<a href="https://github.com/vitaZ-dev/clone-anychem" target="_blank">[반응형] 애니켐 스터디 클론코딩</a>
+		<br />
+		<a href="https://github.com/vitaZ-dev/fb-todo" target="_blank">[firebase/Redux...] Basic Todo </a>
 		</p>
 	</div>
 	<div>
