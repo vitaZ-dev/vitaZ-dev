@@ -11,16 +11,16 @@
 		</p>
 	</div>
 	<div>
-		<h2> 🤝 Cooperate Projects 🤝 </h2>
+		<h2> 🤝 Cooperate Projects</h2>
 		<p>
 		<a href="https://github.com/vitaZ-dev/food-roulette" target="_blank">[1차] 룰렛 랜덤 메뉴 선택 및 가계부 서비스</a> <br />
 		<a href="https://github.com/vitaZ-dev/smart-grade" target="_blank">[2차-3차] 대학 성적 관리 서비스</a>
 		<br />
-		<a href="https://github.com/vitaZ-dev/clone-sulwhasoo" target="_blank">[mini] 설화수 홈페이지 스터디 클론코딩(반응형)</a>
+		<a href="https://github.com/vitaZ-dev/clone-sulwhasoo" target="_blank">[mini] 설화수 홈페이지 협업 클론코딩(반응형)</a>
 		</p>
 	</div>
 	<div>
-		<h2> 📝 Personal Projects 📝 </h2>
+		<h2> 📝 Personal Projects</h2>
 		<p>
 		<a href="https://github.com/vitaZ-dev/clone-interpark" target="_blank">[반응형] 인터파크 스터디 클론코딩</a> <br />
 		<a href="https://github.com/vitaZ-dev/clone-anychem" target="_blank">[반응형] 애니켐 스터디 클론코딩</a>
@@ -29,7 +29,7 @@
 		</p>
 	</div>
 	<div>
-		<h2> 📚 Tech Stack 📚 </h2>
+		<h2> 📚 Tech Stack</h2>
 		<div>
 			<p><b>✨ Platforms & Languages ✨</b></p>
 			<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
