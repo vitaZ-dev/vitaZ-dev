@@ -12,6 +12,12 @@
 	</div>
 	<div>
 		<h2> 🤝 Cooperate Projects 🤝 </h2>
+		<p>
+		<a href="https://github.com/vitaZ-dev/food-roulette" target="_blank">[1차] 룰렛 랜덤 메뉴 선택 및 가계부 서비스</a> <br />
+		<a href="https://github.com/vitaZ-dev/smart-grade" target="_blank">[2차-3차] 대학 성적 관리 서비스</a>
+		<br />
+		<a href="https://github.com/vitaZ-dev/clone-sulwhasoo" target="_blank">[mini] 설화수 홈페이지 스터디 클론코딩(반응형)</a>
+		</p>
 	</div>
 	<div>
 		<h2> 📚 Tech Stack 📚 </h2>
@@ -38,6 +44,7 @@
 			<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 			<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=fff"/> 
 		</div>
+		<br />
 		<div>
 			<p><b>🔧 Tools 🔧</b></p>
 			<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff"/>
