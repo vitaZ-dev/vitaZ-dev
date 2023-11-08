@@ -77,6 +77,7 @@
 	<div>
 	<h5> 📫 How to reach me 📫 </h5>
 	<p> 📧 email ~ vitaminzdev@gmail.com </p>
+	<p> my notion ~ <a href="https://www.notion.so/e5ee79b802ef4edfbc3e0f50dd1c944c" target="_blank"><img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=Notion&logoColor=000"/></a> </p>
 	</div>
 </div>
 
